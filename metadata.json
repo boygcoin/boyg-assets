@@ -2,5 +2,10 @@
   "name": "Buy Or You're Gay",
   "symbol": "BOYG",
   "description": "You read the rules.",
-  "image": "https://github.com/boygcoin/boyg-assets/blob/main/boyg.png"
+  "image": "https://raw.githubusercontent.com/boygcoin/boyg-assets/90e8bc52abf930bb74abf71f2bf02341174822b0/boyg.png",
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/boygcoin/boyg-assets/90e8bc52abf930bb74abf71f2bf02341174822b0/boyg.png", "type": "image/png" }
+    ]
+  }
 }
